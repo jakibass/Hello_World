@@ -1,7 +1,7 @@
 # Hello_World
 
-Hi! My name is Jacqueline Bass. I preffered to reffered as Jaki. I really like pasta and sitting outside. 
+Hi! My name is Jacqueline Bass, but I like to go by Jaki.  
 ---
-- first item
-- second item
-- thrid
+[- first item](url)
+[- second item](url)
+[- thrid](url)
